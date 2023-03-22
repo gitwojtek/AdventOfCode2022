@@ -21,3 +21,5 @@ print(max(elves_sum_calories))
 sorted_elves_sum_calories = sorted(elves_sum_calories, reverse=True)
 #stage 2 result
 print(sum(sorted_elves_sum_calories[0:3]))
+
+#test change

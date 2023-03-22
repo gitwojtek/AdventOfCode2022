@@ -38,3 +38,5 @@ for i, row in enumerate(open('day5_input.txt', encoding='utf-8')):
         stacks[idx_to] = stacks[idx_to] + (changing_part)
         stacks[idx_from] = stacks[idx_from][0:len(stacks[idx_from])-number_of_elements]
 print(stacks)
+
+#test change
